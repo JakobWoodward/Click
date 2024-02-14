@@ -1,0 +1,44 @@
+body{
+    background-color: bisque ;
+    text-align: center;
+    margin: 50px;
+}
+
+button {
+    font-size: 30px;
+    background-color: aqua;
+    border: 6px darksalmon solid;
+    border-radius: 100px;
+    padding: 15px;
+    cursor: pointer;
+}
+
+#text1 {
+    font-family: fantasy;
+}
+
+#text2 {
+    font-size: 65px;
+}
+
+#text3 {
+    font-family: monospace;
+    font-size: 45px;
+}
+
+#H{
+    display: none;
+    font-size: 65px;
+}
+#A{
+    display: none;
+    font-size: 65px;
+}
+#T{
+    display: none;
+    font-size: 65px;
+}
+#E{
+    display: none;
+    font-size: 65px;
+}
